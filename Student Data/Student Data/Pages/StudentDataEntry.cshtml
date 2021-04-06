@@ -1,0 +1,114 @@
+﻿@page
+@model Student_Data.Pages.StudentDataEntryModel
+@{
+}
+<div class="row">
+    <div class="DataEntry">
+        <h4>Student Data Entry</h4>
+
+        @*modal
+        <button type="button" class="btn btn-outline-primary" data-toggle="ajax-modal" data-target="AddStudent"
+                data-url="@Url.Action("Create")"> Add Student</button>*@
+
+        <form method="post" class="form-horizontal">
+            <div class="warning" asp-validation-summary="All"></div>
+
+            <div class="form-group">
+                <label class="control-label">Frist Name:</label>
+                <div>
+                    <input asp-for="StudentEntry.FirstName" class="form-control">
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label class="control-label ">Last Name:</label>
+                <div>
+                    <input asp-for="StudentEntry.LastName" class="form-control">
+                </div>
+
+            </div>
+
+            <div class="form-group">
+                <label class="control-label" >Age:</label>
+                <div >
+                    <input asp-for="StudentEntry.Age" class="form-control">
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label class="control-label ">Address:</label>
+                <div>
+                    <input asp-for="StudentEntry.Address" class="form-control">
+                </div>
+            </div>
+
+
+            <div class="form-group">
+                <label class="control-label">Course:</label>
+                <div>
+                    <input asp-for="StudentEntry.Course" class="form-control">
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label class="control-label">Year Level:</label>
+                <div>
+                    <input asp-for="StudentEntry.Year" class="form-control">
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label class="control-label">Campus:</label>
+                <div>
+                    <input asp-for="StudentEntry.Campus" class="form-control">
+                </div>
+            </div>
+
+
+            <div class="form-group">
+                <div class="col-sm-offset-2">
+                    <button type="submit" class="btn btn-default">Submit</button>
+                </div>
+            </div>
+
+        </form>
+    </div>
+
+    <div class="col-sm-8 Studtable">
+
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th> Student Code</th>
+                    <th> First Name</th>
+                    <th> Last Name</th>
+                    <th> Age</th>
+                    <th> Course</th>
+                    <th> Year Level</th>
+                    <th> Campus</th>
+                    <th>Action</th>
+
+                </tr>
+            </thead>
+
+            <tbody>
+                @foreach (var student in Model.Students)
+                {
+                    <tr>
+                        <td>@student.StudentCode</td>
+                        <td>@student.FirstName</td>
+                        <td>@student.LastName</td>
+                        <td>@student.Age</td>
+                        <td>@student.Address</td>
+                        <td>@student.Course</td>
+                        <td>@student.Year</td>
+                        <td>@student.Campus</td>
+                        <td><a asp-page="EditPage" asp-route-id="@student.StudentCode">Edit</a> 
+                        | <a asp-page="StudentDataEntry" asp-page-handler="Delete" asp-route-id="@student.StudentCode">Delete</a></td>
+                    </tr>
+                }
+
+            </tbody>
+        </table>
+</div>
+</div>

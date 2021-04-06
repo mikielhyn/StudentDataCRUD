@@ -1,0 +1,74 @@
+C:\Users\Karl\MIKI ASP\Student Data\Student Data\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Karl\MIKI ASP\Student Data\Student Data\bin\Debug\net5.0\appsettings.json
+C:\Users\Karl\MIKI ASP\Student Data\Student Data\bin\Debug\net5.0\Student Data.exe
+C:\Users\Karl\MIKI ASP\Student Data\Student Data\bin\Debug\net5.0\Student Data.deps.json
+C:\Users\Karl\MIKI ASP\Student Data\Student Data\bin\Debug\net5.0\Student Data.runtimeconfig.json
+C:\Users\Karl\MIKI ASP\Student Data\Student Data\bin\Debug\net5.0\Student Data.runtimeconfig.dev.json
+C:\Users\Karl\MIKI ASP\Student Data\Student Data\bin\Debug\net5.0\Student Data.dll
+C:\Users\Karl\MIKI ASP\Student Data\Student Data\bin\Debug\net5.0\ref\Student Data.dll
+C:\Users\Karl\MIKI ASP\Student Data\Student Data\bin\Debug\net5.0\Student Data.pdb
+C:\Users\Karl\MIKI ASP\Student Data\Student Data\bin\Debug\net5.0\Student Data.Views.dll
+C:\Users\Karl\MIKI ASP\Student Data\Student Data\bin\Debug\net5.0\Student Data.Views.pdb
+C:\Users\Karl\MIKI ASP\Student Data\Student Data\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Karl\MIKI ASP\Student Data\Student Data\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Karl\MIKI ASP\Student Data\Student Data\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Karl\MIKI ASP\Student Data\Student Data\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Karl\MIKI ASP\Student Data\Student Data\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Karl\MIKI ASP\Student Data\Student Data\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Karl\MIKI ASP\Student Data\Student Data\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Karl\MIKI ASP\Student Data\Student Data\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Karl\MIKI ASP\Student Data\Student Data\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Karl\MIKI ASP\Student Data\Student Data\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Karl\MIKI ASP\Student Data\Student Data\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Karl\MIKI ASP\Student Data\Student Data\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Karl\MIKI ASP\Student Data\Student Data\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Karl\MIKI ASP\Student Data\Student Data\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Karl\MIKI ASP\Student Data\Student Data\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Karl\MIKI ASP\Student Data\Student Data\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Karl\MIKI ASP\Student Data\Student Data\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Karl\MIKI ASP\Student Data\Student Data\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Karl\MIKI ASP\Student Data\Student Data\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Karl\MIKI ASP\Student Data\Student Data\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Karl\MIKI ASP\Student Data\Student Data\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Karl\MIKI ASP\Student Data\Student Data\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Karl\MIKI ASP\Student Data\Student Data\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Karl\MIKI ASP\Student Data\Student Data\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Karl\MIKI ASP\Student Data\Student Data\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Karl\MIKI ASP\Student Data\Student Data\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Karl\MIKI ASP\Student Data\Student Data\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Karl\MIKI ASP\Student Data\Student Data\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Karl\MIKI ASP\Student Data\Student Data\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Karl\MIKI ASP\Student Data\Student Data\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Karl\MIKI ASP\Student Data\Student Data\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Karl\MIKI ASP\Student Data\Student Data\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Karl\MIKI ASP\Student Data\Student Data\obj\Debug\net5.0\Student Data.csprojAssemblyReference.cache
+C:\Users\Karl\MIKI ASP\Student Data\Student Data\obj\Debug\net5.0\Student Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karl\MIKI ASP\Student Data\Student Data\obj\Debug\net5.0\Student Data.AssemblyInfoInputs.cache
+C:\Users\Karl\MIKI ASP\Student Data\Student Data\obj\Debug\net5.0\Student Data.AssemblyInfo.cs
+C:\Users\Karl\MIKI ASP\Student Data\Student Data\obj\Debug\net5.0\Student Data.csproj.CoreCompileInputs.cache
+C:\Users\Karl\MIKI ASP\Student Data\Student Data\obj\Debug\net5.0\Student Data.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Karl\MIKI ASP\Student Data\Student Data\obj\Debug\net5.0\Student Data.RazorAssemblyInfo.cache
+C:\Users\Karl\MIKI ASP\Student Data\Student Data\obj\Debug\net5.0\Student Data.RazorAssemblyInfo.cs
+C:\Users\Karl\MIKI ASP\Student Data\Student Data\obj\Debug\net5.0\staticwebassets\Student Data.StaticWebAssets.Manifest.cache
+C:\Users\Karl\MIKI ASP\Student Data\Student Data\obj\Debug\net5.0\staticwebassets\Student Data.StaticWebAssets.xml
+C:\Users\Karl\MIKI ASP\Student Data\Student Data\obj\Debug\net5.0\scopedcss\bundle\Student Data.styles.css
+C:\Users\Karl\MIKI ASP\Student Data\Student Data\obj\Debug\net5.0\Student Data.TagHelpers.input.cache
+C:\Users\Karl\MIKI ASP\Student Data\Student Data\obj\Debug\net5.0\Student Data.TagHelpers.output.cache
+C:\Users\Karl\MIKI ASP\Student Data\Student Data\obj\Debug\net5.0\Student Data.RazorCoreGenerate.cache
+C:\Users\Karl\MIKI ASP\Student Data\Student Data\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Karl\MIKI ASP\Student Data\Student Data\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Karl\MIKI ASP\Student Data\Student Data\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Karl\MIKI ASP\Student Data\Student Data\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Karl\MIKI ASP\Student Data\Student Data\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Karl\MIKI ASP\Student Data\Student Data\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Karl\MIKI ASP\Student Data\Student Data\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Karl\MIKI ASP\Student Data\Student Data\obj\Debug\net5.0\Student Data.RazorTargetAssemblyInfo.cache
+C:\Users\Karl\MIKI ASP\Student Data\Student Data\obj\Debug\net5.0\Student Data.RazorTargetAssemblyInfo.cs
+C:\Users\Karl\MIKI ASP\Student Data\Student Data\obj\Debug\net5.0\Student Data.Views.pdb
+C:\Users\Karl\MIKI ASP\Student Data\Student Data\obj\Debug\net5.0\Student Data.csproj.CopyComplete
+C:\Users\Karl\MIKI ASP\Student Data\Student Data\obj\Debug\net5.0\Student Data.dll
+C:\Users\Karl\MIKI ASP\Student Data\Student Data\obj\Debug\net5.0\ref\Student Data.dll
+C:\Users\Karl\MIKI ASP\Student Data\Student Data\obj\Debug\net5.0\Student Data.pdb
+C:\Users\Karl\MIKI ASP\Student Data\Student Data\obj\Debug\net5.0\Student Data.genruntimeconfig.cache
+C:\Users\Karl\MIKI ASP\Student Data\Student Data\obj\Debug\net5.0\Razor\Pages\StudentDataEntry.cshtml.g.cs
+C:\Users\Karl\MIKI ASP\Student Data\Student Data\obj\Debug\net5.0\Razor\Pages\EditPage.cshtml.g.cs

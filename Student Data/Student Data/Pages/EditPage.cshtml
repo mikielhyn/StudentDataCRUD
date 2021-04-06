@@ -1,0 +1,73 @@
+﻿@page
+@model Student_Data.Pages.EditPageModel
+@{
+}
+<div class="row">
+    <div class="DataEntry">
+        <h4>Edit/Update Student Data</h4>
+        <form method="post" class="form-horizontal">
+            <div class="warning" asp-validation-summary="All"></div>
+
+            <input type="hidden" asp-for="StudentEntry.StudentCode" />
+
+            <div class="form-group">
+                <label class="control-label">Frist Name:</label>
+                <div>
+                    <input asp-for="StudentEntry.FirstName" class="form-control">
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label class="control-label ">Last Name:</label>
+                <div>
+                    <input asp-for="StudentEntry.LastName" class="form-control">
+                </div>
+
+            </div>
+
+            <div class="form-group">
+                <label class="control-label">Age:</label>
+                <div>
+                    <input asp-for="StudentEntry.Age" class="form-control">
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label class="control-label ">Address:</label>
+                <div>
+                    <input asp-for="StudentEntry.Address" class="form-control">
+                </div>
+            </div>
+
+
+            <div class="form-group">
+                <label class="control-label">Course:</label>
+                <div>
+                    <input asp-for="StudentEntry.Course" class="form-control">
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label class="control-label">Year Level:</label>
+                <div>
+                    <input asp-for="StudentEntry.Year" class="form-control">
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label class="control-label">Campus:</label>
+                <div>
+                    <input asp-for="StudentEntry.Campus" class="form-control">
+                </div>
+            </div>
+
+
+            <div class="form-group">
+                <div class="col-sm-offset-2">
+                    <button type="submit" class="btn btn-default">Save Changes</button>
+                </div>
+            </div>
+
+        </form>
+    </div>
+    </div>
